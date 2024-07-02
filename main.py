@@ -15,3 +15,5 @@ cur.execute(select_all_students_query)
 rows=cur.fetchall()
 for students in rows:
     print (students)
+
+#Xolmamatov Farruh
